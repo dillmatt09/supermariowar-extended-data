@@ -2,11 +2,15 @@
 #
 # Every key is an English text of the game; "{}" stands for a number, which is put
 # back in place of the "{}" of the translation in the same order.
+# Keys starting with [icon] are the labels drawn on the player icons with the smooth font.
 # English is built in: this file is the template for new translations.
-# Copy it as <language code>.toml, change the name and translate the right-hand sides.
+# Copy it as <language code>.toml, change the [meta] and translate the right-hand sides.
+# Set pixel_font = false for a language the pixel fonts can't show (eg. one not in the Latin alphabet).
 
 [meta]
 name = "English"
+english_name = "English"
+pixel_font = true
 
 [strings]
 "tour only" = "tour only"

@@ -1,11 +1,14 @@
-# Super Mario War Extended - Français translation
+# Super Mario War Extended - French translation
 #
 # Every key is an English text of the game; "{}" stands for a number, which is put
 # back in place of the "{}" of the translation in the same order.
+# Keys starting with [icon] are the labels drawn on the player icons with the smooth font.
 # Texts that are missing here are shown in English.
 
 [meta]
 name = "Français"
+english_name = "French"
+pixel_font = true
 
 [strings]
 "tour only" = "tour seulement"

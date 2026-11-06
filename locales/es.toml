@@ -1,11 +1,14 @@
-# Super Mario War Extended - Español translation
+# Super Mario War Extended - Spanish translation
 #
 # Every key is an English text of the game; "{}" stands for a number, which is put
 # back in place of the "{}" of the translation in the same order.
+# Keys starting with [icon] are the labels drawn on the player icons with the smooth font.
 # Texts that are missing here are shown in English.
 
 [meta]
 name = "Español"
+english_name = "Spanish"
+pixel_font = true
 
 [strings]
 "tour only" = "solo tour"
