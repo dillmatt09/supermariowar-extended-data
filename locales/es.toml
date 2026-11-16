@@ -506,3 +506,5 @@ pixel_font = true
 "Dominating" = "Dominando"
 "Dominating x {}" = "Dominando x {}"
 "Unstoppable!" = "¡Imparable!"
+"Choose a Character" = "Elige un personaje"
+"Select: Choose  Random: Random  Cancel: Back" = "Elegir: Aceptar  Aleatorio: Al azar  Cancelar: Volver"

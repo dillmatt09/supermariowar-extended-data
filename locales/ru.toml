@@ -506,3 +506,5 @@ pixel_font = false
 "Dominating" = "Доминирование"
 "Dominating x {}" = "Доминирование x {}"
 "Unstoppable!" = "Неудержим!"
+"Choose a Character" = "Выберите персонажа"
+"Select: Choose  Random: Random  Cancel: Back" = "Выбрать: OK  Случайно: наугад  Отмена: назад"

@@ -506,3 +506,5 @@ pixel_font = false
 "Dominating" = "圧倒中"
 "Dominating x {}" = "圧倒中 x {}"
 "Unstoppable!" = "止められない!"
+"Choose a Character" = "キャラクターを選ぶ"
+"Select: Choose  Random: Random  Cancel: Back" = "決定: 選ぶ  ランダム: おまかせ  キャンセル: もどる"

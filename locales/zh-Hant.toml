@@ -506,3 +506,5 @@ pixel_font = false
 "Dominating" = "壓制中"
 "Dominating x {}" = "壓制中 x {}"
 "Unstoppable!" = "勢不可擋!"
+"Choose a Character" = "選擇角色"
+"Select: Choose  Random: Random  Cancel: Back" = "選擇: 確定  隨機: 隨機選  取消: 返回"

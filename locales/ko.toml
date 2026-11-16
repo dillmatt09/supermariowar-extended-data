@@ -506,3 +506,5 @@ pixel_font = false
 "Dominating" = "압도 중"
 "Dominating x {}" = "압도 중 x {}"
 "Unstoppable!" = "막을 수 없다!"
+"Choose a Character" = "캐릭터 선택"
+"Select: Choose  Random: Random  Cancel: Back" = "선택: 결정  무작위: 아무거나  취소: 뒤로"
